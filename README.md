@@ -1,2 +1,2 @@
 # Github-Demo
-A demonstration of Github for IBEA.
+A demonstration of Github for Flipping the Switch.
